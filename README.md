@@ -31,8 +31,8 @@ AI Doctor is an advanced image-based medical assistant powered by Groq's AI mode
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ai-doctor.git
-   cd ai-doctor
+   git clone https://github.com/djdhairya/AI-Doctor.git
+   cd Ai-Doctor
    ```
 2. Create a `.env` file and add your Groq API key:
    ```ini
@@ -115,4 +115,6 @@ python main.py
 This project is licensed under the MIT License.
 
 
+![Screenshot 2025-02-21 144812](https://github.com/user-attachments/assets/0d5e1b31-8b37-488e-97a7-a0d298c4ffbe)
+![Screenshot 2025-02-21 144755](https://github.com/user-attachments/assets/bc43aeed-4cb2-43ab-a2de-cbf623582552)
 
